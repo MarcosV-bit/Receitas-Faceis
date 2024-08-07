@@ -1,0 +1,46 @@
+body{background-color: rgb(231, 194, 91);
+     color: #160202;
+ 
+}
+h1{text-align: center; }
+
+div{background-color: rgb(216, 146, 65);
+    justify-content: baseline
+     width: 420px;
+     background-color: rgb(231, 194, 91);
+     padding: 10px;
+     color: rgb(0, 0, 0);
+}
+.flex-container{display: flex; 
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-around;
+     align-content: end
+     height: 600px;
+     
+}
+.box{display: flex; width: 300px; 
+     border: solid 1.7px;
+     flex-direction: column;
+     
+     
+     
+     
+     
+     
+     
+}
+
+#bolo-milho{
+
+}
+#bolo-leite{
+
+}
+#pudim{
+     
+}
+#Torta-Limão{
+     
+}
+
